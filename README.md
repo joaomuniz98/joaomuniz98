@@ -1,7 +1,3 @@
-# 👋 Olá, sou o @joaomuniz98
-
-Bem-vindo ao meu perfil no GitHub! Sou entusiasta de desenvolvimento de software e apaixonado por tecnologias como C#, VB.NET, React e Flutter.
-
 ## 👀 Interesses
 
 Tenho grande interesse em explorar e aprimorar minhas habilidades nas seguintes áreas:
