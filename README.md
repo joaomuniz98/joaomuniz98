@@ -3,8 +3,6 @@
 Tenho grande interesse em explorar e aprimorar minhas habilidades nas seguintes áreas:
 
 - Desenvolvimento com **C#** e **VB.NET**
-- Construção de interfaces com **React**
-- Criação de aplicativos móveis usando **React-Native**
 
 ## 📫 Como me encontrar
 
