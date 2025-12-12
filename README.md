@@ -6,7 +6,7 @@
   **Stack atual:**
   - Frontend: React, TypeScript, Styled Components
   - Backend: C#, ASP.NET Core, Web APIs
-  - Ferramentas: Git, Formik, Redux
+  - Ferramentas: Git, Formik, Redux , Zustand , Zod
 
   ---
 
