@@ -1,13 +1,48 @@
-## 👀 Interesses
+ ## 👀 Interesses
 
-Tenho grande interesse em explorar e aprimorar minhas habilidades nas seguintes áreas:
+  Desenvolvedor Full Stack com foco em **React** e **C#**, criando aplicações web modernas e escaláveis.
 
-- Desenvolvimento com **C#** e **VB.NET**
+  Tenho experiência sólida com:
+  - **Frontend**: React, TypeScript, Styled Components, Formik
+  - **Backend**: C#, ASP.NET Core, Web APIs
+  - **Legacy**: VB.NET, ASP.NET Framework
 
-## 📫 Como me encontrar
+  Áreas de interesse contínuo:
+  - 🎨 UI/UX e Design Systems
+  - 🏗️ Arquitetura de Software (Clean Code, SOLID)
+  - ⚡ Performance e otimização
+  - 🔄 Integração e entrega contínua (CI/CD)
 
-Você pode entrar em contato comigo através das seguintes plataformas:
+  ---
 
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/joaoalvesmz/)
+  ## 📫 Como me encontrar
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos. Mal posso esperar para me conectar e colaborar com outros entusiastas da tecnologia.
+  Vamos nos conectar! Entre em contato através de:
+
+  - 💼 **LinkedIn**: [linkedin.com/in/joaoalvesmz](https://www.linkedin.com/in/joaoalvesmz/)
+  - 📧 **Email**: [seu-email@exemplo.com] *(se quiser adicionar)*
+  - 🐙 **GitHub**: Você já está aqui!
+
+  ---
+
+  Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos. Sempre aberto a colaborações, feedbacks e novas conexões com outros
+  entusiastas da tecnologia! 🚀
+
+  Ou uma versão mais minimalista:
+
+  ## 🚀 Tecnologias
+
+  Atualmente trabalhando com **React** e **C#**. Experiência prévia com VB.NET e ASP.NET.
+
+  **Stack atual:**
+  - Frontend: React, TypeScript, Styled Components
+  - Backend: C#, ASP.NET Core, Web APIs
+  - Ferramentas: Git, Formik, Redux
+
+  ---
+
+  ## 📫 Contato
+
+  - LinkedIn: [linkedin.com/in/joaoalvesmz](https://www.linkedin.com/in/joaoalvesmz/)
+
+  Aberto a colaborações e networking! 🤝
